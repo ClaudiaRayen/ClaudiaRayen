@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋,  Soy Claudia Navarro Aránguiz</h1>
 <h3 align="center">Estudiante de Ingeniería Civil Industrial en la Universidad de Chile</h3>
 
-Soy Claudia, tengo 23 años y soy capricornio♑. Actualmente estoy cursando mi 5° año de carrera y planeo realizar el [MDS](https://mds.uchile.cl/).
+Soy Claudia, tengo 24 años y soy capricornio♑. Actualmente terminando micarrera junto con el [MDS](https://mds.uchile.cl/).
 
 
 <h3 align="left">Sobre mi:</h3>
