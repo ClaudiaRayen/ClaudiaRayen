@@ -11,15 +11,9 @@ Soy Claudia, tengo 23 años y soy capricornio♑. Actualmente estoy cursando mi 
   <img src="Milka.jpg" width="120" height="200" alt="Milka">
   <img src="Mei.jpeg" width="110" height="200" alt="Mei">
 </div>
-</p> 📺 Me gustan las sitcoms, el anime y el reality 'Gran Hermano'
+
 </p> ✨ Mis hobbies son  patinar y modelar cerámica, también me gustan muchos los juegos de mesa y jugar tetris.
 
-
-<h3 align="left">Experiencia:</h3>
-<p align="left">
-</p> 🎓 Bachiller con mención en Ciencias Naturales y Exactas, y Licenciada en Ciencias de la Ingeniería mención Industrial
-</p> 👩‍🏫 He formado parte de equipos docentes  en la Universidad de Chile en los cursos de "Modelamiento y Optimización", "Probabilidades" e "Ingeniería de la Información".
-</p> 📢 Formo parte del equipo de monitores de difusión de la Facultad de Ciencias Físicas y Matemáticas, donde trabajamos para acercar la facultad a la comunidad, con un enfoque especial en futuros postulantes. Realizamos esto a través de la organización de charlas, ferias y recorridos por la facultad.
 
 <h3 align="left">Stack tecnológico:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
